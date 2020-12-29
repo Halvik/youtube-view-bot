@@ -1,2 +1,2 @@
 # youtube-view-bot
-Darmowy YouTube view bot w pythonie.
+Darmowy view bot na yt w pythonie. aby bot zadziałał pobierz wersje 3.9.1 pythona.
